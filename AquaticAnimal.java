@@ -1,0 +1,4 @@
+interface AquaticAnimal
+{
+	void livesIn();
+}

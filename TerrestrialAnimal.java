@@ -1,0 +1,4 @@
+interface TerrestrialAnimal
+{
+	void livesIn();
+}
